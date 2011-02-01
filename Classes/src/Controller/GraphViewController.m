@@ -101,7 +101,6 @@
 
 - (NSUInteger)graphViewNumberOfPlots:(S7GraphView *)graphView {
     return 1;
-
 }
 
 - (NSArray *)graphViewXValues:(S7GraphView *)graphView {
